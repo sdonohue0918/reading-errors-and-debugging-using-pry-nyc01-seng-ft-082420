@@ -6,3 +6,5 @@ def plus_two(num)
 	p num
 
 end
+
+plus_two(3)
